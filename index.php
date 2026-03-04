@@ -1,5 +1,5 @@
 [VERSION]
-LatestVersion=2
+LatestVersion=3
 MinimalVersion=1
 OwnVersion=1
 
